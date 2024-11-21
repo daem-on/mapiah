@@ -1813,7 +1813,7 @@ endscrap
 ''',
       },
       {
-        'file': 'scale xs',
+        'file': 'th_file_parser-03162-linepoint_with_scale_option.th2',
         'length': 7,
         'encoding': 'UTF-8',
         'asFile': r'''encoding UTF-8
